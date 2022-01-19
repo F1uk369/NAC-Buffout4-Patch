@@ -1,5 +1,6 @@
 # NAC Buffout 4 Patch
 This mod patch lets NAC work with Buffout 4.
+If you download the patched mod from this repository, replace it with your original NAC mod.
 
 I will rarely update the .esm here, so here is how to do it yourself:
 
